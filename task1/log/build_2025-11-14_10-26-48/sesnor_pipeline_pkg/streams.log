@@ -1,0 +1,34 @@
+[0.331s] Invoking command in '/root/ros_ws/tasks/src/sesnor_pipeline_pkg': PYTHONPATH=/root/ros_ws/tasks/build/sesnor_pipeline_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sesnor_pipeline_pkg build --build-base /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build install --record /root/ros_ws/tasks/build/sesnor_pipeline_pkg/install.log --single-version-externally-managed install_data
+[0.451s] running egg_info
+[0.452s] writing ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/PKG-INFO
+[0.456s] writing dependency_links to ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/dependency_links.txt
+[0.457s] writing entry points to ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/entry_points.txt
+[0.457s] writing requirements to ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/requires.txt
+[0.457s] writing top-level names to ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/top_level.txt
+[0.458s] reading manifest file '../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/SOURCES.txt'
+[0.458s] writing manifest file '../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info/SOURCES.txt'
+[0.458s] running build
+[0.458s] running build_py
+[0.459s] copying sesnor_pipeline_pkg/logger_node.py -> /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build/lib/sesnor_pipeline_pkg
+[0.459s] copying sesnor_pipeline_pkg/processor_node.py -> /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build/lib/sesnor_pipeline_pkg
+[0.459s] running install
+[0.459s] running install_lib
+[0.459s] copying /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build/lib/sesnor_pipeline_pkg/logger_node.py -> /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg
+[0.459s] copying /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build/lib/sesnor_pipeline_pkg/processor_node.py -> /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg
+[0.460s] byte-compiling /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg/logger_node.py to logger_node.cpython-310.pyc
+[0.460s]   File "/root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg/logger_node.py", line 17
+[0.460s]     def main(args=None)
+[0.460s]                        ^
+[0.460s] SyntaxError: expected ':'
+[0.460s] 
+[0.460s] byte-compiling /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg/processor_node.py to processor_node.cpython-310.pyc
+[0.460s] running install_data
+[0.460s] running install_egg_info
+[0.461s] removing '/root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.461s] Copying ../../build/sesnor_pipeline_pkg/sesnor_pipeline_pkg.egg-info to /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg-0.0.0-py3.10.egg-info
+[0.462s] running install_scripts
+[0.473s] Installing test_node script to /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/sesnor_pipeline_pkg
+[0.473s] Installing test_node_2 script to /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/sesnor_pipeline_pkg
+[0.473s] Installing test_node_3 script to /root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/sesnor_pipeline_pkg
+[0.474s] writing list of installed files to '/root/ros_ws/tasks/build/sesnor_pipeline_pkg/install.log'
+[0.485s] Invoked command in '/root/ros_ws/tasks/src/sesnor_pipeline_pkg' returned '0': PYTHONPATH=/root/ros_ws/tasks/build/sesnor_pipeline_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sesnor_pipeline_pkg build --build-base /root/ros_ws/tasks/build/sesnor_pipeline_pkg/build install --record /root/ros_ws/tasks/build/sesnor_pipeline_pkg/install.log --single-version-externally-managed install_data

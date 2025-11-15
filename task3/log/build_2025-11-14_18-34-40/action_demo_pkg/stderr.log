@@ -1,0 +1,5 @@
+  File "/root/ros_ws/tasks/task3/install/action_demo_pkg/lib/python3.10/site-packages/action_demo_pkg/goal_tracker_server.py", line 3
+    from geometry_msgs.msg from Point
+                           ^^^^
+SyntaxError: invalid syntax
+

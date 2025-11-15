@@ -1,0 +1,5 @@
+[console_scripts]
+test_node = sesnor_pipeline_pkg.sensor_node:main
+test_node_2 = sesnor_pipeline_pkg.processor_node:main
+test_node_3 = sesnor_pipeline_pkg.logger_node:main
+

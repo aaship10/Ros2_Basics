@@ -1,0 +1,4 @@
+[console_scripts]
+test_node_1 = action_demo_pkg.goal_client:main
+test_node_2 = action_demo_pkg.goal_tracker_server:main
+

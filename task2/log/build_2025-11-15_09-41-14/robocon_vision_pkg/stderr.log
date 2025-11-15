@@ -1,0 +1,5 @@
+  File "/root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg/camera_publisher.py", line 16
+    		self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480))
+    		                                            ^
+SyntaxError: unmatched ')'
+

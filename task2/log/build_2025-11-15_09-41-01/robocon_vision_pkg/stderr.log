@@ -1,0 +1,5 @@
+  File "/root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg/camera_publisher.py", line 14
+    		self.cap = cv2.VideoCapture(3
+    		                            ^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

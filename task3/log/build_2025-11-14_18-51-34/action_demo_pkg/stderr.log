@@ -1,0 +1,5 @@
+  File "/root/ros_ws/tasks/task3/install/action_demo_pkg/lib/python3.10/site-packages/action_demo_pkg/goal_tracker_server.py", line 21
+    		if msg
+    		      ^
+SyntaxError: expected ':'
+

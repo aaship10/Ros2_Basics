@@ -1,0 +1,5 @@
+  File "/root/ros_ws/tasks/install/sesnor_pipeline_pkg/lib/python3.10/site-packages/sesnor_pipeline_pkg/logger_node.py", line 17
+    def main(args=None)
+                       ^
+SyntaxError: expected ':'
+

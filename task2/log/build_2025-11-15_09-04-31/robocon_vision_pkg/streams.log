@@ -1,0 +1,25 @@
+[0.315s] Invoking command in '/root/ros_ws/tasks/task2/src/robocon_vision_pkg': PYTHONPATH=/root/ros_ws/tasks/task2/build/robocon_vision_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robocon_vision_pkg build --build-base /root/ros_ws/tasks/task2/build/robocon_vision_pkg/build install --record /root/ros_ws/tasks/task2/build/robocon_vision_pkg/install.log --single-version-externally-managed install_data
+[0.454s] running egg_info
+[0.455s] writing ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/PKG-INFO
+[0.455s] writing dependency_links to ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/dependency_links.txt
+[0.455s] writing entry points to ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/entry_points.txt
+[0.455s] writing requirements to ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/requires.txt
+[0.455s] writing top-level names to ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/top_level.txt
+[0.456s] reading manifest file '../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/SOURCES.txt'
+[0.456s] writing manifest file '../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info/SOURCES.txt'
+[0.456s] running build
+[0.456s] running build_py
+[0.456s] copying robocon_vision_pkg/camera_publisher.py -> /root/ros_ws/tasks/task2/build/robocon_vision_pkg/build/lib/robocon_vision_pkg
+[0.457s] running install
+[0.457s] running install_lib
+[0.457s] copying /root/ros_ws/tasks/task2/build/robocon_vision_pkg/build/lib/robocon_vision_pkg/camera_publisher.py -> /root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg
+[0.457s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (camera_publisher.py, line 14)
+[0.457s] byte-compiling /root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg/camera_publisher.py to camera_publisher.cpython-310.pyc
+[0.457s] running install_data
+[0.457s] running install_egg_info
+[0.458s] removing '/root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.458s] Copying ../../build/robocon_vision_pkg/robocon_vision_pkg.egg-info to /root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages/robocon_vision_pkg-0.0.0-py3.10.egg-info
+[0.459s] running install_scripts
+[0.470s] Installing test_node_1 script to /root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/robocon_vision_pkg
+[0.470s] writing list of installed files to '/root/ros_ws/tasks/task2/build/robocon_vision_pkg/install.log'
+[0.482s] Invoked command in '/root/ros_ws/tasks/task2/src/robocon_vision_pkg' returned '0': PYTHONPATH=/root/ros_ws/tasks/task2/build/robocon_vision_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros_ws/tasks/task2/install/robocon_vision_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robocon_vision_pkg build --build-base /root/ros_ws/tasks/task2/build/robocon_vision_pkg/build install --record /root/ros_ws/tasks/task2/build/robocon_vision_pkg/install.log --single-version-externally-managed install_data

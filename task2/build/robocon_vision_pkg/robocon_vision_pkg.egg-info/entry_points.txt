@@ -1,0 +1,4 @@
+[console_scripts]
+test_node_1 = robocon_vision_pkg.camera_publisher:main
+test_node_2 = robocon_vision_pkg.zone_detector:main
+
